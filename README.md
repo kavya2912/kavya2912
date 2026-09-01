@@ -1,5 +1,5 @@
 # 💫 About Me:
-😄 Pronouns: She/Her<br>🛠️ I'm currently building Frontier.<br>🌐 I specialise in web development (frontend & backend).<br>🤝 I'm looking to collaborate on projects.<br>💬 Ask me about web dev or any tech-related stuff.<br>📫 How to reach me: Check social links below.<br>⚡ Fun fact: I spend almost as many hours reading books every day.
+😄 Pronouns: She/Her<br>🛠️ I'm currently building Frontier.<br>🌐 I specialise in web development (frontend & backend).<br>🤝 I'm looking to collaborate on projects.<br>💬 Ask me about web dev  or any tech-related stuff.<br>📫 How to reach me: Check social links below.<br>⚡ Fun fact: I spend almost as many hours reading books every day.
 
 
 ## 🌐 Socials:
